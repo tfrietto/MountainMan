@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Hiking app</string>
+    <string name="welcome_message">Your adventure starts here!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="latitude_setting">enter lattitude here</string>
+    <string name="longitude_settings">Enter longitude here</string>
+    <string name="adjust_location">Adjust trail search location:</string>
+    <string name="settings">Settings</string>
+    <string name="apply_changes">Apply Changes</string>
+    <string name="less_than_five"><![CDATA[< 5]]></string>
+    <string name="less_than_ten"><![CDATA[< 10]]></string>
+    <string name="less_than_fifteen"><![CDATA[< 15]]></string>
+    <string name="less_than_twenty"><![CDATA[< 20]]></string>
+</resources>
